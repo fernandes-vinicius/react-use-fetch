@@ -1,6 +1,6 @@
 {
   "name": "@fernandes-vinicius/react-use-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Data fetching using React Hooks + Axios.",
   "main": "src/main.tsx",
   "scripts": {
